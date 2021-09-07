@@ -48,9 +48,9 @@
 
         <Switch
             android:id="@+id/frostingSwitch"
-            android:layout_width="wrap_content"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="0"
             android:scrollbarDefaultDelayBeforeFade="100"
             android:text="Frosting" />
 
